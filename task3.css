@@ -1,13 +1,13 @@
 body {
-    background-image: url('https://media.istockphoto.com/id/1292919739/vector/tic-tac-toe-school-game-colorful-seamless-pattern-for-fabric-and-print-on-the-paper.jpg?s=170667a&w=0&k=20&c=YAu9Cr1A4uPynx_VhcM1Xs2MdTroy_HXnwIqaeX2Aqc=');
+    background-image: url('https://th.bing.com/th/id/OIP.K7-k7-isNNjsJqOkoIx7GAAAAA?rs=1&pid=ImgDetMain');
     background-size: cover;
     height: 100vh;
 }
 
 h1 {
-    color: #EFDECD;
+    color: #004D1A;
     margin-bottom: -5px;
-    margin-top: 290px;
+    margin-top: 250px;
     font-size: 50px;
 }
 
@@ -46,58 +46,58 @@ p {
 #b1 {
     border-bottom: 1px solid gray;
     border-right: 1px solid gray;
-    color: rgb(244, 245, 247);
+    color: #001A1A;
 }
 
 #b2 {
     border-bottom: 1px solid gray;
     border-right: 1px solid gray;
     border-left: 1px solid gray;
-    color: rgb(244, 245, 247);
+    color: #001A1A;
 }
 
 #b3 {
     border-bottom: 1px solid gray;
     border-left: 1px solid gray;
-    color: rgb(244, 245, 247);
+    color: #001A1A;
 }
 
 #b4 {
     border-top: 1px solid gray;
     border-bottom: 1px solid gray;
     border-right: 1px solid gray;
-    color: rgb(244, 245, 247);
+    color: #001A1A;
 }
 
 #b5 {
     border: 1px solid gray;
-    color: rgb(244, 245, 247);
+    color: #001A1A;
 }
 
 #b6 {
     border-top: 1px solid gray;
     border-bottom: 1px solid gray;
     border-left: 1px solid gray;
-    color: rgb(244, 245, 247);
+    color: #001A1A;
 }
 
 #b7 {
     border-top: 1px solid gray;
     border-right: 1px solid gray;
-    color: rgb(244, 245, 247);
+    color: #001A1A;
 }
 
 #b8 {
     border-top: 1px solid gray;
     border-right: 1px solid gray;
     border-left: 1px solid gray;
-    color: rgb(244, 245, 247);
+    color: #001A1A;
 }
 
 #b9 {
     border-top: 1px solid gray;
     border-left: 1px solid gray;
-    color: rgb(244, 245, 247);
+    color: #001A1A;
 }
 
 #but {
@@ -118,7 +118,7 @@ p {
 #print {
     font-family: Verdana,
         Geneva, Tahoma, sans-serif;
-    color: #CC0022;
+    color: #000099;
     font-size: 30px;
     font-weight: bold;
 }
@@ -130,6 +130,6 @@ p {
 #ins {
     font-family: Verdana, Geneva,
         Tahoma, sans-serif;
-    color: #B2EBF2;
+    color: #660022;
 
 }
